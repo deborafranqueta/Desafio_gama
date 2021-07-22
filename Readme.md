@@ -19,6 +19,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias.
 - [Css](https://www.w3schools.com/css/)
 - [Bootsrap](https://getbootstrap.com/)
 
+___
+
 ## :file_folder: Como baixar o projeto
 
 
