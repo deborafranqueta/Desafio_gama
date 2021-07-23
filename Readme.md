@@ -10,7 +10,6 @@
  O projeto **Diva Collection** Plus é um e-commerce que foi criado dentro do curso **Gama Academy** com intuito de colocar em prática tudo o que foi estudado durante o curso.
 ___
 <br>
----
 
  ## Epic
  
@@ -61,7 +60,7 @@ $ yarn start
 
 ## Sprint
 
-:clock1030: Duração 2 semanas:
+Duração 2 semanas:
 
 * Parte 1 - Data 09/07 a 16/07
 * Parte 2 - Data 17/07 a 23/07
