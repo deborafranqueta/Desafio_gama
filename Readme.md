@@ -119,5 +119,5 @@ ____
 ### Tasks
 
    1. Inserir os input e button do formulário.
-   2. Estelizar o button.
+   2. Estelizar o botoes.
    
