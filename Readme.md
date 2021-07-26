@@ -2,7 +2,7 @@
  <img src="https://ik.imagekit.io/deborafranqueta/rodape_AyZs8CbyT.png?updatedAt=1626964866054">
 </h1>
 
- <img src="https://ik.imagekit.io/deborafranqueta/gif_x8v7nzOZuUl.gif?updatedAt=1626967714775)">
+ <img src="https://ik.imagekit.io/deborafranqueta/frete_pRIkSB3eK.JPG?updatedAt=1627335889783">
 
 
 ## :page_facing_up: Somos
@@ -15,7 +15,7 @@ ___
  
  :ballot_box_with_check:Uma loja virtual de venda de produtos.
 
- :ballot_box_with_check:Uma página com instituicional e detalhes dos produtos.
+ :ballot_box_with_check:Uma página com institucional e detalhes dos produtos.
 
  :ballot_box_with_check: Utilizar Boostrap é essencial.
 
@@ -56,7 +56,7 @@ $ yarn start
 ```
 
 ----
-<br>
+
 
 ## Sprint
 
