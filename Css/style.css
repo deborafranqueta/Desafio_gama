@@ -1,6 +1,6 @@
 .info-destaque {
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   background-color: rgb(236, 105, 18);
   animation-name: example;
   animation-duration: 4s;
@@ -17,7 +17,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 27px;
   cursor: pointer;
 }
 
@@ -37,9 +37,8 @@ h1 {
 p {
   font-size: 20px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  margin: 10px;
   text-align: center;
-  margin: 0 0 1em;
+  margin-top: 0 0 1em;
   display: block;
 }
 
@@ -137,7 +136,7 @@ h5 {
   padding-top: 40px;
   padding-bottom: 40px;
   text-align: center;
-  font-size: 20px;
+  font-size: 25px;
   color: whitesmoke;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
